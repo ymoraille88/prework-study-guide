@@ -1,4 +1,4 @@
-{
+* {
     margin: 0;
     padding: 0;
    }
@@ -37,4 +37,5 @@
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #58D68D;
+    box-shadow: 5px 10px #888888; 
+    }
